@@ -1,6 +1,6 @@
 # YelpCamp
 
-You can see the final project deployed [here](https://stark-bastion-70241.herokuapp.com/){:target="_blank"}
+You can see the final project deployed [here](https://stark-bastion-70241.herokuapp.com/)
 
 ## Initial Setup
 * Add Landing Page
