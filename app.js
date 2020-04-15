@@ -11,8 +11,6 @@ var express = require("express"),
     methodOverride = require("method-override"),
     seedDB = require("./seeds");
 
-
-
 //Requiring routes    
 var commentRoutes = require("./routes/comments"),
     campgroundRoutes = require("./routes/campgrounds"),
